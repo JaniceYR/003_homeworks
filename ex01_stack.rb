@@ -11,7 +11,7 @@ class Stack
 
   def remove
     # removes one element from the stack
-    @stack.pop(el)
+    @stack.pop
   end
 
   def show
